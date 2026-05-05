@@ -1,4 +1,4 @@
-<img width="100%" src="banner.png" alt="Banner do perfil de Gustavo Cheng">
+<img width="100%" src="banner.jpg" alt="Banner do perfil de Gustavo Cheng">
 
 # Oi, eu sou o Gustavo Cheng! 👋
 
