@@ -1,24 +1,81 @@
-<!-- Substitua o link abaixo pela URL do seu próprio banner -->
-<img src="https://via.placeholder.com/800x200/2A0A3A/FFFFFF?text=Tech+&+Data+for+Impact" alt="Banner" width="100%">
+# Olá, eu sou o Gustavo Cheng! 👋
 
-### Eu sou o Gustavo Shinn Shyong Cheng, Estudante de Engenharia da Computação e Profissional de Operações! ☕
+💻 Sou apaixonado por tecnologia, dados e melhoria de processos, buscando minha primeira oportunidade na área de tecnologia.
+
+📊 Atualmente atuo com Supply Chain na Mei Mei Culinária Asiática, desenvolvendo automações, análises em Excel e Python, Curva ABC de produtos e fornecedores, além de apoiar visualizações em Power BI.
+
+🚀 Estou em constante evolução, estudando Engenharia de Computação e aprimorando meus conhecimentos em programação, análise de dados, automação, desenvolvimento de software e inteligência artificial.
+
+🤝 Gosto de aprender com outras pessoas, entender o negócio a fundo e transformar dados e processos em soluções práticas que geram impacto real.
 
 ---
 
-💻 Sou uma pessoa curiosa e apaixonada por aprender com outras pessoas, sempre buscando contribuir em processos de crescimento. Amo minha área, percebo que a tecnologia me proporciona transformar lugares e ir além, e tenho o objetivo de me tornar um profissional e líder de excelência.
+## 🛠️ Tecnologias e Ferramentas
 
-🔍 Atualmente cursando Engenharia da Computação na FIAP, tenho um forte interesse técnico em engenharia de dados e cloud computing. Aplico na prática construindo pipelines e otimizando cálculos e operações de Supply Chain para franquias de culinária asiática e para a minha própria Dark Kitchen.
+### Dados e Automação
 
-🤝 Fora do mundo dos dados e da logística corporativa, gosto de praticar musculação e sou criador de conteúdo nas redes sociais! Aberto a novas oportunidades, colaborações e desafios que unam tecnologia e negócios.
+<img align="left" alt="Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="left" alt="Pandas" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+<img align="left" alt="NumPy" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+<img align="left" alt="Power BI" height="45" width="55" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
 
-**Engenharia de Dados & Cloud:**
+<br><br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+### Desenvolvimento
 
-**Banco de Dados & Ferramentas:**
+<img align="left" alt="Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="left" alt="JavaScript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="left" alt="TypeScript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img align="left" alt="HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="left" alt="CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="40" height="40"/>
+<br><br><br>
 
-**Redes Sociais:**
+### Banco de Dados
 
-<a href="seu-link-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="seu-link-aqui" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a> <a href="seu-link-aqui" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a> <a href="seu-link-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a>
+<img align="left" alt="MySQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="left" alt="PostgreSQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img align="left" alt="Oracle" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+
+<br><br><br>
+
+### Ferramentas
+
+<img align="left" alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="left" alt="GitHub" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img align="left" alt="VS Code" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
+<br><br><br>
+
+---
+
+## 📚 Atualmente estudando
+
+- Engenharia de Computação;
+- Python para dados e automação;
+- Desenvolvimento de software;
+- Banco de dados;
+- Inteligência Artificial e Machine Learning;
+- Git e GitHub.
+
+---
+
+## 🚀 Projetos em destaque
+
+### AGVISION — Challenge FIAP 2025
+
+Projeto desenvolvido em parceria com a Aché Farmacêutica, utilizando visão computacional para identificação de defeitos em blisters, caixas e embalagens.
+
+🏆 Projeto reconhecido com o 2º lugar no Challenge FIAP 2025.
+
+### Automações em Supply Chain
+
+Criação de automações, análises e controles para apoiar decisões de compras, abastecimento, custos e fornecedores.
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Cheng-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_AQUI_SEU_LINKEDIN)
+
+[![E-mail](https://img.shields.io/badge/E--mail-gustavocheng70%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavocheng70@gmail.com)
