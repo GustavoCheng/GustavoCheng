@@ -1,12 +1,10 @@
-# Olá, eu sou o Gustavo! 👋
+<img width="100%" src="banner.png" alt="Banner do perfil de Gustavo Cheng">
 
-💻 Sou apaixonado por tecnologia, dados e melhoria de processos, e estou em busca da minha primeira oportunidade na área de tecnologia.
+# Oi, eu sou o Gustavo Cheng! 👋
+
+💻 Sou apaixonado por tecnologia e estou em busca da minha primeira oportunidade na área de tecnologia.
 
 📊 Atualmente atuo com Supply Chain na Mei Mei Culinária Asiática, desenvolvendo automações, análises em Excel e Python, Curva ABC de produtos e fornecedores, além de apoiar visualizações em Power BI.
-
-🚀 Estou em constante evolução, estudando Engenharia de Computação e aprimorando meus conhecimentos em programação, análise de dados, automação, desenvolvimento de software e inteligência artificial.
-
-🤝 Gosto de aprender com outras pessoas, entender o negócio a fundo e transformar dados e processos em soluções práticas que geram impacto real.
 
 ---
 
