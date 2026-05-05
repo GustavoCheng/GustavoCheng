@@ -6,8 +6,6 @@
 
 📊 Atualmente atuo com Supply Chain na Mei Mei Culinária Asiática, desenvolvendo automações, análises em Excel e Python, Curva ABC de produtos e fornecedores, além de apoiar visualizações em Power BI.
 
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Dados e Automação
