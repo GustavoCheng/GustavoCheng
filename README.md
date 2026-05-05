@@ -79,3 +79,11 @@ Criação de automações, análises e controles para apoiar decisões de compra
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Cheng-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_AQUI_SEU_LINKEDIN)
 
 [![E-mail](https://img.shields.io/badge/E--mail-gustavocheng70%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavocheng70@gmail.com)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Cheng-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_AQUI_SEU_LINKEDIN)
+
+[![E-mail](https://img.shields.io/badge/E--mail-gustavocheng70%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavocheng70@gmail.com)
