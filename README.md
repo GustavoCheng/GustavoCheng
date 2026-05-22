@@ -2,11 +2,9 @@
 
 # Oi, eu sou o Gustavo Cheng! 👋
 
-💻 Sou apaixonado por tecnologia, dados e melhoria de processos.
+💻 Estudante e profissional em desenvolvimento na área de tecnologia.
 
-📊 Atualmente, atuo na Mei Mei Culinária Asiática desenvolvendo automações, análises em Excel e Python, organização de bases de dados, Curva ABC de produtos e fornecedores, além de apoiar integrações e visualizações em Power BI.
-
-🚀 Busco minha primeira oportunidade na área de tecnologia.
+📊 Atualmente, Na Mei Mei, atuo com automações, organização de bases de dados, análises em Excel e Python, integrações entre sistemas e apoio na criação de relatórios e dashboards para tomada de decisão.
 
 🤝 Aberto a novas oportunidades, colaborações e projetos que me ajudem a evoluir tecnicamente e gerar impacto real com tecnologia.
 
@@ -14,7 +12,6 @@
 
 ### Ferramentas:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
