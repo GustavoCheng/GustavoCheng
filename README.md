@@ -8,7 +8,6 @@
 
 🤝 Aberto a oportunidades de estágio, projetos e conexões na área de Cybersegurança.
 
----
 
 ## Ferramentas e Tecnologias
 
@@ -22,7 +21,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
 
 ## Em estudo
 
@@ -34,7 +32,7 @@
 - Varredura básica com Nmap;
 - Laboratórios práticos com máquinas virtuais.
 
----
+--
 
 ## Redes Sociais
 
