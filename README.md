@@ -32,7 +32,6 @@
 - Varredura básica com Nmap;
 - Laboratórios práticos com máquinas virtuais.
 
---
 
 ## Redes Sociais
 
