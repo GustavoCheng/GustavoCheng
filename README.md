@@ -11,14 +11,14 @@
 
 ## Tecnologias e Conhecimentos
 
-Sistemas Operacionais: Windows e Linux;
-Redes de Computadores: TCP/IP, protocolos de rede, endereçamento IP, topologias e interconectividade;
-Segurança da Informação: fundamentos de segurança, vulnerabilidades e pentest básico;
-Programação e Dados: Python e SQL;
-Versionamento: Git e GitHub;
-Infraestrutura: fundamentos de infraestrutura de TI;
-Hardware: sistemas eletrônicos, componentes e sensores;
-Ferramentas de Escritório: Excel, Word e PowerPoint.
+- Sistemas Operacionais: Windows e Linux;
+- Redes de Computadores: TCP/IP, protocolos de rede, endereçamento IP, topologias e interconectividade;
+- Segurança da Informação: fundamentos de segurança, vulnerabilidades e pentest básico;
+- Programação e Dados: Python e SQL;
+- Versionamento: Git e GitHub;
+- Infraestrutura: fundamentos de infraestrutura de TI;
+- Hardware: sistemas eletrônicos, componentes e sensores;
+- Ferramentas de Escritório: Excel, Word e PowerPoint.
 
 
 ## Redes Sociais
